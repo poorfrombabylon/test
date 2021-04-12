@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/almazhajrullin/Desktop/untitled2/pre test /Earthquake.h
+
+/Users/almazhajrullin/Desktop/untitled2/pre test /Time.h
+
+/Users/almazhajrullin/Desktop/untitled2/pre test /main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+map
+-
+Time.h
+/Users/almazhajrullin/Desktop/untitled2/pre test /Time.h
+Earthquake.h
+/Users/almazhajrullin/Desktop/untitled2/pre test /Earthquake.h
+

@@ -1,0 +1,3 @@
+/Users/almazhajrullin/Desktop/untitled2/pre test /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/almazhajrullin/Desktop/untitled2/pre test /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/almazhajrullin/Desktop/untitled2/pre test /cmake-build-debug/CMakeFiles/pre_test_.dir
